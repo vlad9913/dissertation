@@ -1,0 +1,52 @@
+"Exercise","Calories","HeartRateIncrease","MuscleFatigue"
+"Bench Press",217,17,6
+"Incline Dumbbell Bench Press",178,15,5
+"Cable Crossovers",159,14,5
+"Standing Overhead Press",121,12,4
+"Lateral Raises",134,13,4
+"Bent-Over Barbell Row",243,18,6
+"Dumbbell Pullover",195,16,5
+"Wide Grip Lat Pulldown",210,17,5
+"Dumbbell Rear Delt Fly",123,13,4
+"Cable Face Pull",136,14,4
+"Dumbbell Shrug",145,14,4
+"Close Grip Bench Press",226,16,5
+"Weighted Dip",184,14,4
+"Rope Tricep Extension",160,13,4
+"Lying Leg Raise",89,10,3
+"Cable Crunch",103,11,3
+"Barbell Curl",187,15,4
+"Hammer Curl",168,14,4
+"Cable Curl",156,13,4
+"Deadlift",312,20,7
+"Lying Leg Curl",167,14,5
+"Walking Lunge",214,16,5
+"Front Squat",279,19,6
+"Leg Extension",143,14,5
+"Dumbbell Side Lunge",187,15,5
+"Seated Calf Raise",128,13,4
+"Calf Press",134,13,4
+"Push Ups", 200, 16, 5
+"Pull Ups", 210, 17, 6
+"Plank", 100, 12, 5
+"Russian Twists", 150, 14, 5
+"Bicycle Crunches", 120, 14, 4
+"Mountain Climbers", 220, 18, 6
+"Jumping Jacks", 180, 15, 4
+"High Knees", 210, 16, 6
+"Burpees", 250, 18, 7
+"Squats", 200, 16, 5
+"Lunges", 180, 15, 5
+"Box Jump", 230, 17, 6
+"Sit Ups", 140, 14, 4
+"Star Jumps", 220, 18, 6
+"Wall Sit", 110, 12, 4
+"Sumo Squat", 210, 16, 6
+"Kettlebell Swing", 230, 17, 6
+"Running in Place", 200, 16, 5
+"Boxing Punches", 220, 17, 6
+"Treadmill Running", 300, 20, 7
+"Elliptical Workout", 250, 18, 6
+"Rowing Machine", 270, 19, 7
+"Stationary Bike", 220, 17, 6
+"Jump Rope", 300, 20, 7
